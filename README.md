@@ -1,4 +1,4 @@
-_This is a fork of the original [usmanhalalit/pixie](https://github.com/usmanhalalit/pixie), I just added PHP 8.2 support by making small adjustment. Full credit goes to the original developers. Below is the original README content_
+_This is a fork of the original [usmanhalalit/pixie](https://github.com/usmanhalalit/pixie), I just added PHP 8.2 support by making small adjustments. Full credit goes to the original developers. Below is the original README content_
 
 ***
 
